@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
