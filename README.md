@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -13,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,4 +73,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0051-n-queens/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
