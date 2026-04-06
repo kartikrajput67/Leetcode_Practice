@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
