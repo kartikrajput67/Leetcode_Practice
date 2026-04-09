@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
