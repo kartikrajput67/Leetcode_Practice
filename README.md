@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## String
@@ -33,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Prefix Sum
