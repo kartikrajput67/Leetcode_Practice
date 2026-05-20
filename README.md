@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0704-binary-search](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Dynamic Programming
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0704-binary-search](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
