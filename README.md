@@ -220,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
