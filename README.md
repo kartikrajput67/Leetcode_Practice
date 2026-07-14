@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2126-destroying-asteroids/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
