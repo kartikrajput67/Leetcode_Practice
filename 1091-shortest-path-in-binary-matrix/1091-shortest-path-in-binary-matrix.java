@@ -1,54 +1,55 @@
 class Solution {
-    class Pair{
-        int r;
-        int c;
-        int dis;
-        Pair(int r, int c, int dis){
+
+    class Pair {
+        int r, c, dis;
+
+        Pair(int r, int c, int dis) {
             this.r = r;
             this.c = c;
             this.dis = dis;
         }
     }
+
     public int shortestPathBinaryMatrix(int[][] grid) {
+
         int n = grid.length;
-        if(grid[0][0] == 1 || grid[n-1][n-1]==1) return -1;
-       
-        //create distance array to map distance
-        int[][] dis = new int[n][n];
-        for(int i=0;i <n; i++){
-            for(int j=0; j<n;j++){
-                dis[i][j] = Integer.MAX_VALUE;
-            }
-        }
-        dis[0][0] = 1;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->Integer.compare(a.dis,b.dis));
-        pq.add(new Pair(0,0,1));
+        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
+            return -1;
+        //since all weights are equal so it can be solved using bfs-TC-O(n^2)
+        //whereas the dijkstra's takes as TC- O(n^2 * log n)-so only use when different weights
+        Queue<Pair> q = new ArrayDeque<>();
+        boolean[][] vis = new boolean[n][n];
 
-        //valid moves
+        q.add(new Pair(0, 0, 1));
+        vis[0][0] = true;
+
         int[] dr = {-1,-1,0,1,1,1,0,-1};
         int[] dc = {0,1,1,1,0,-1,-1,-1};
 
-        //update distance until pq is not empty
-        while(!pq.isEmpty()){
-            Pair p = pq.remove();
-            int currRow = p.r;
-            int currCol = p.c;
-            int currDis = p.dis;
+        while (!q.isEmpty()) {
 
-            //check valid indexes
-            for(int i=0; i<8; i++){
-                int nextRow = currRow+dr[i];
-                int nextCol = currCol+dc[i];
-                if(nextRow < 0 || nextRow>=n || nextCol < 0 || nextCol >= n) continue;
-                if(grid[nextRow][nextCol] == 0 && currDis + 1 < dis[nextRow][nextCol]) {
-                    dis[nextRow][nextCol] = currDis+1;
-                    pq.add(new Pair(nextRow, nextCol, currDis+1));
+            Pair curr = q.remove();
+
+            // Destination reached
+            if (curr.r == n - 1 && curr.c == n - 1)
+                return curr.dis;
+
+            for (int i = 0; i < 8; i++) {
+
+                int nr = curr.r + dr[i];
+                int nc = curr.c + dc[i];
+
+                if (nr < 0 || nr >= n || nc < 0 || nc >= n)
+                    continue;
+
+                if (grid[nr][nc] == 0 && !vis[nr][nc]) {
+                    vis[nr][nc] = true;
+                    q.add(new Pair(nr, nc, curr.dis + 1));
                 }
             }
         }
 
-        if(dis[n-1][n-1] == Integer.MAX_VALUE) return -1;
-        return dis[n-1][n-1];
+        return -1;
     }
 }
