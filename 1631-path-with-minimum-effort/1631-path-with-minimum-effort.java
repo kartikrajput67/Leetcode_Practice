@@ -29,7 +29,9 @@ class Solution {
             Pair curr = pq.remove();
             int r = curr.r;
             int c = curr.c;
-
+            if(curr.effort > arr[r][c]) continue;
+            if(r == n-1 && c == m-1) return curr.effort;
+            
             //traverse all valid directions
             for(int i=0; i<4; i++){
                 int nr = r+dr[i];
