@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0733-flood-fill/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Backtracking
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0547-number-of-provinces/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
