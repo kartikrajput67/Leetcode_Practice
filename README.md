@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
