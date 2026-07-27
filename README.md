@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0208-implement-trie-prefix-tree/) | Medium |
