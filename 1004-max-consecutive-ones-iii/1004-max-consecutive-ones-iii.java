@@ -7,7 +7,7 @@ class Solution {
         
         while(right < n){
             if(nums[right] == 0) zeros--;
-            while(zeros < 0){
+            if(zeros < 0){
                 if(nums[left] == 0) zeros++;
                 left++;
             }
