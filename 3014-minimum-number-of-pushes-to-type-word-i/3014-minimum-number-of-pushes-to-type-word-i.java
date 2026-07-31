@@ -1,7 +1,15 @@
 class Solution {
-    public int minimumPushes(String A) {
-        int q = A.length() >> 3;
-        int r = A.length() & 7;
-        return ((q << 2) + r) * (q + 1);
+    public int minimumPushes(String word) {
+        int n = word.length();
+        int i=1;
+        int ans = 0;
+
+        while(n>8){
+            ans += 8*i;
+            i++;
+            n -= 8;
+        }
+        ans += n*i;
+        return ans;
     }
 }
