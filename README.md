@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0322-coin-change/) | Medium |
+| [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -350,4 +353,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
