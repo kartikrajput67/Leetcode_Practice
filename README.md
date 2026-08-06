@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
