@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
