@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0125-valid-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0860-lemonade-change/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
