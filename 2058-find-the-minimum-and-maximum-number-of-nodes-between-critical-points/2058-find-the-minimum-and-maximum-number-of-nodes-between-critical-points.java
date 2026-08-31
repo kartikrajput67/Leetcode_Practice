@@ -1,28 +1,43 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int min = 100000, i = 1;
-        int first = 0, last = 0;
+        ListNode prev = head, curr = head.next, next = curr.next;
+        int min = Integer.MAX_VALUE;
+        int Lastcritical = 0, firstCri = 0;
+        int count = 2;//track curr or size
 
-        ListNode prev = head, curr = head.next, nxt = head.next.next;
+        while(next != null){
+            if((prev.val > curr.val && next.val > curr.val) || (prev.val < curr.val && next.val < curr.val)){ //check critical point
 
-        while (nxt != null) {
-            if (isCrit(prev, curr, nxt)) {
-                if (first == 0) first = i;
-                else min = Math.min(min, i - last);
-                last = i;
+                if(Lastcritical == 0){ //found first critical point
+                    Lastcritical = count;
+                    firstCri = count;
+                }
+                else{ //calculate min and max with other critical points
+                    min = Math.min(min,count-Lastcritical);
+                    Lastcritical = count;
+                }
             }
-
-            prev = curr; curr = nxt;
-            nxt = nxt.next; i++;
+            prev = curr;
+            curr = next;
+            count++;
+            next = curr.next;
         }
-
-        if (first == last) return new int[]{-1, -1};
-
-        return new int[]{min, last - first};
-    }
-    
-    boolean isCrit(ListNode a, ListNode b, ListNode c) {
-        return (a.val < b.val && b.val > c.val) ||
-               (a.val > b.val && b.val < c.val);
+        if(firstCri == Lastcritical){ //ya to 1 hi critical point mila ya 0
+            return new int[] {-1,-1};
+        }
+        int[] ans = new int[2];
+        ans[0] = min;
+        ans[1] = Lastcritical-firstCri;
+        return ans;
     }
 }
