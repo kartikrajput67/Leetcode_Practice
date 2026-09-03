@@ -23,7 +23,6 @@ class Solution {
             }
             else smallestOdd = Math.min(smallestOdd, i);
         }
-        if(smallestOdd < smallestEven) return true;
-        else return false;
+        return smallestOdd < smallestEven;
     }
 }
