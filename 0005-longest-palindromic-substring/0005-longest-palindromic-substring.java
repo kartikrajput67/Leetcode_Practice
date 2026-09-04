@@ -1,22 +1,21 @@
 class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
-        // if(n == 1) return s;
-        String ans=Character.toString(s.charAt(0));
-        for(int i=0; i<n-1 ;i++){
-            for(int j=i+1; j<n; j++){
-                if(palindrome(s,i,j) && ans.length() < j-i+1){
-                    ans = s.substring(i,j+1);
-                }
-            }
+        String ans = "";
+        for(int i=0; i<n; i++){
+            String odd = solve(s,i,i);
+            String even = solve(s, i, i+1);
+
+            if(odd.length() > even.length() && odd.length() > ans.length()) ans = odd;
+            else if(even.length() > odd.length() && even.length() > ans.length()) ans = even;
         }
         return ans;
     }
-    private boolean palindrome(String s, int i, int j){
-        while(i<j){
-            if(s.charAt(i) != s.charAt(j)) return false;
-            i++;j--;
+    private String solve(String s, int l, int r){
+        while(l>=0 && r<s.length()){
+            if(s.charAt(l) != s.charAt(r)) break;
+            l--;r++;
         }
-        return true;
+        return s.substring(l+1,r);
     }
 }
