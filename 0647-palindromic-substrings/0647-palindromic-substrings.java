@@ -1,19 +1,22 @@
 class Solution {
     public int countSubstrings(String s) {
-        int count = 0;
-        for(int i=0; i<s.length(); i++){
-            for(int j=i; j<s.length(); j++){
-                if(palindrome(s,i,j)) count++;
-            }
+        int n = s.length();
+        int ans = 0;
+        for(int i=0; i<n; i++){
+            int odd = solve(s,i,i);
+            int even = solve(s, i, i+1);
+
+            ans += odd + even;
+        }
+        return ans;
+    }
+    private int solve(String s, int l, int r){
+        int count  =0 ;
+        while(l>=0 && r<s.length()){
+            if(s.charAt(l) != s.charAt(r)) break;
+            count++;
+            l--;r++;
         }
         return count;
-    }
-    private boolean palindrome(String s, int i, int j){
-        while(i < j){
-            if(s.charAt(i) != s.charAt(j)) return false;
-            i++;
-            j--;
-        }
-        return true;
     }
 }
