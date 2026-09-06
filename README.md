@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
+| [0115-distinct-subsequences](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
