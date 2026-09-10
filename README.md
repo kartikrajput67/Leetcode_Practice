@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
