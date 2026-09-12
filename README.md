@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2126-destroying-asteroids/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
