@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0704-binary-search](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0835-image-overlap/) | Medium |
 | [0860-lemonade-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0877-stone-game/) | Medium |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1260-shift-2d-grid/) | Easy |
