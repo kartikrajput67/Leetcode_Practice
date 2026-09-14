@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0877-stone-game/) | Medium |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -449,4 +450,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
