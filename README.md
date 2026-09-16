@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0877-stone-game/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
