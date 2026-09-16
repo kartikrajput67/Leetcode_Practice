@@ -1,31 +1,31 @@
 class Solution {
-    public int smallestDivisor(int[] nums, int threshold) {
-        int n = nums.length;
-        int low = 1, high = Arrays.stream(nums).max().getAsInt();
-
-        // for(int i=low; i<= high; i++){
-        //     int sum = sumOfCeil(nums,i);
-        //     if(sum <= threshold) return i;
-        // }
-        //return -1;//false return or unreachable
-
-        //optimize
-        int ans = 0;
-        while(low <= high){
-            int mid = low + (high-low)/2;
-            if(sumOfCeil(nums,mid) <= threshold){
-                ans = mid;
-                high = mid-1;
-            }
-            else low = mid+1;
+    private int max(int[] nums){
+        int ans = nums[0];
+        for(int i:nums){
+            ans = Math.max(ans,i);
         }
         return ans;
     }
-    private int sumOfCeil(int[] nums, int n){
-        int sum = 0;
+
+    private int divisorSum(int[] nums, int n){
+        int ans = 0;
         for(int i:nums){
-            sum += (i+n-1)/n;//ceil formula
+            ans += (i+n-1)/n;
         }
-        return sum;
+        return ans;
+    }
+    public int smallestDivisor(int[] nums, int t) {
+        int ans = 0;
+        int l = 1, r = max(nums);
+        while(l <= r){
+            int mid = l + (r-l)/2;
+            if(divisorSum(nums,mid) <= t){
+                ans = mid;
+                r = mid-1;
+            }else{
+                l = mid+1;
+            }
+        }
+        return ans;
     }
 }
