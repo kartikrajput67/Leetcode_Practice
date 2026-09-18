@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2126-destroying-asteroids](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2126-destroying-asteroids/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0860-lemonade-change/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
