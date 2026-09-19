@@ -1,18 +1,20 @@
 class Solution {
     public int[] findPeakGrid(int[][] mat) {
         int n = mat.length, m = mat[0].length;
-        int dr[] = {0,-1,0,1};
-        int dc[] = {-1,0,1,0};
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                boolean peak = true;
-                for(int k=0; k<4; k++){
-                    int row = i+dr[k];
-                    int col = j+dc[k];
-                    if(row >=0 && row <n && col>=0 && col<m && mat[i][j] < mat[row][col]) peak = false;
-                }
-                if(peak) return new int[] {i,j};
+        int s = 0, e = m-1;
+        while(s<=e){
+            int mid = s+(e-s)/2;
+            //find max int midth col
+            int maxIdx = 0;
+            for(int i=1; i<n; i++){
+                if(mat[i][mid] > mat[maxIdx][mid]) maxIdx = i;
             }
+            int left = (mid == 0)? -1: mat[maxIdx][mid-1];
+            int right = (mid == m-1) ? -1 : mat[maxIdx][mid+1];
+            if(mat[maxIdx][mid] > left && mat[maxIdx][mid] > right) return new int[] {maxIdx, mid};
+
+            if(mat[maxIdx][mid] < left) e = mid-1;
+            else s = mid+1;
         }
         return new int[] {-1,-1};
     }
