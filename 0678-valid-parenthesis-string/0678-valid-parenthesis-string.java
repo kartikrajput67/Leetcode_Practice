@@ -1,21 +1,32 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int n = s.length();
-        int min=0,max = 0;
+        int n= s.length();
+        int open = 0, star = 0;
+        //left to right
         for(int i=0; i<n; i++){
-            char ch = s.charAt(i);
-            if(ch == '(') {
-                min++;max++;
-            }
-            else if(ch == ')') {
-                min--;max--;
-            }
+            char c = s.charAt(i);
+            if(c == '(') open++;
+            else if(c == '*') star++;
             else{
-                min--;max++;
+                if(open > 0) open--;
+                else if(star > 0) star--;
+                else return false;
             }
-            if(max < 0) return false;
-            if(min < 0) min = 0;
         }
-        return min == 0;
+
+        //right to left
+        int close = 0;
+        star = 0;
+        for(int i=n-1; i>=0; i--){
+            char c = s.charAt(i);
+            if(c == ')') close++;
+            else if(c == '*') star++;
+            else{
+                if(close > 0) close--;
+                else if(star > 0) star--;
+                else return false;
+            }
+        }
+        return true;
     }
 }
