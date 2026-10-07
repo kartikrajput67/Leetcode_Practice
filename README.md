@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0210-course-schedule-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0547-number-of-provinces/) | Medium |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0051-n-queens/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
