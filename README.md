@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Longest Common Subsequence
