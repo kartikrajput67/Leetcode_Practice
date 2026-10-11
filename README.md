@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2126-destroying-asteroids/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
