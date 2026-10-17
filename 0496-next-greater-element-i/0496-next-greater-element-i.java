@@ -4,24 +4,22 @@ class Solution {
         int[] ans = new int[n];
         int idx = -1;
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(nums1[i] == nums2[j]){
-                    boolean greater = false;
-                    for(int k=j+1; k<m; k++){
-                        if(nums2[k] > nums2[j]){
-                            ans[++idx] = nums2[k];
-                            greater = true;
-                            break;
-                        }
-                    }
-                    if(!greater){
-                         ans[++idx] = -1;
-                         break;
-                    }
-                    break;
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> st = new Stack<>();
+        for(int i: nums2){
+            while(!st.isEmpty() && i > st.peek()){
+                map.put(st.peek(),i);
+                st.pop();
             }
+            st.add(i);
+        }
+        while(!st.isEmpty()){
+            map.put(st.peek(),-1);
+            st.pop();
+        }
+
+        for(int i: nums1){
+            ans[++idx] = map.get(i);
         }
         return ans;
     }
