@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
