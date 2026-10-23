@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3731-find-missing-elements/) | Easy |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
