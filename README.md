@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
