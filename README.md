@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0322-coin-change](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0496-next-greater-element-i/) | Easy |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0013-roman-to-integer/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0836-rectangle-overlap/) | Easy |
