@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0013-roman-to-integer/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0836-rectangle-overlap/) | Easy |
