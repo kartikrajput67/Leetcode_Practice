@@ -13,11 +13,12 @@ class Solution {
         }
 
         boolean[] vis = new boolean[n];
-        for(int i=0; i<n; i++){
-            if(!vis[i]) {
-                if(HasPath(graph,vis,s,d)) return true;
-            }
-        }
+        // for(int i=0; i<n; i++){
+        //     if(!vis[i]) {
+        //         if(HasPath(graph,vis,s,d)) return true;
+        //     }
+        // }
+        if(HasPath(graph,vis,s,d)) return true;
         return false;
     }
     private boolean HasPath(ArrayList<Integer>[] graph, boolean[] vis, int curr, int d){
