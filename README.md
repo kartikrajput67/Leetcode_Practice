@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
