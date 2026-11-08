@@ -1,0 +1,29 @@
+# LeetCode 1267 – Count Servers That Communicate
+
+**Topic:** 2D Arrays / Frequency Counting
+
+**1. Problem intuition**
+
+Count servers that have at least one other server in the same row or column.
+
+**2. My first approach – Brute Force**
+
+For every server, traverse its row and column to find another server.
+
+- Time: O(m × n × (m + n))
+- Space: O(1)
+
+**3. Optimized approach – Frequency Counting**
+
+- Precompute the number of servers in every row.
+- Precompute the number of servers in every column.
+- A server communicates if `rowCount[i] > 1 || colCount[j] > 1`.
+
+**4. Complexity**
+
+- Time: O(m × n)
+- Space: O(m + n)
+
+**5. Key takeaway**
+
+When repeatedly checking whether elements share a row or column, precompute row and column frequencies.
