@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3871-count-commas-in-range-ii/) | Medium |
