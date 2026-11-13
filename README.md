@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -369,12 +370,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/0503-next-greater-element-ii/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -632,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -645,4 +650,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
