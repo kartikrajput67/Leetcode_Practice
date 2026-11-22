@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kartikrajput67/75DaysLeetcodeChallange/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
